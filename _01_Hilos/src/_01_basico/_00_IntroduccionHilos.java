@@ -23,4 +23,5 @@ public class _00_IntroduccionHilos {
 		System.out.println("Hilo: " + Thread.currentThread().getName() + " acabado");
 		
 	}// aquí morirá el hilo principal
+	
 }
